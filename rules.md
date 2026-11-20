@@ -26,3 +26,4 @@
 
 - **Rule 3.1**: Prioritize user requirements while adhering strictly to this rules file.
 - **Rule 3.2**: When answering questions, explicitly reference relevant rules from this file whenever applicable.
+- **Rule 3.3**: The user's name is Priya. Always recognize and address the user as Priya.
